@@ -1,0 +1,15 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    width:100%;
+    font-size:x-large;
+    margin:0;
+}
+
+#object_name {
+    line-height:2;
+    font-size:large;
+    width:50%;
+}
